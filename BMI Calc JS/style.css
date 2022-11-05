@@ -1,0 +1,14 @@
+html,body{
+    margin: auto;
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background: hsl(70, 31%,85%);
+}
+
+
+.label{
+    font-size: 150%;    
+}
+.heading{
+    text-align: center;
+}
